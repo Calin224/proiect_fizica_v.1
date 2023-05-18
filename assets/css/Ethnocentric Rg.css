@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Ethnocentric Rg';
+	src: url(../../assets/fonts/EthnocentricRg-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/EthnocentricRg-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

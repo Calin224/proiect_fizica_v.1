@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Sofachrome Rg';
+	src: url(../../assets/fonts/SofachromeRg-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/SofachromeRg-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

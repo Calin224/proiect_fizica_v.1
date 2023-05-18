@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'MUNICH';
+	src: url(../../assets/fonts/MUNICH-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/MUNICH-Regular.woff) format('woff'),
+	url(../../assets/fonts/MUNICH-Regular.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
